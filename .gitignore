@@ -3,8 +3,8 @@
 #
 # Binaries for programs and plugins
 *.exe
-*.db
-.vscode
+!*.db
+!.vscode
 *.exe~
 *.dll
 *.so
